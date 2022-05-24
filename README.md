@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/62628408/126924105-5da40943-f7c8-4d4f-9b95-09736bcd875a.png" align="center">
+<!-- <img src="https://user-images.githubusercontent.com/62628408/126924105-5da40943-f7c8-4d4f-9b95-09736bcd875a.png" align="center">
 <hr>
 
 <h3 align="center">About Me</h3>
@@ -44,7 +44,7 @@
 <td align="center"><a href="https://github.com/Evavic44/Stats-Preview-Card-Frontendmentor"><img src="https://user-images.githubusercontent.com/62628408/124610691-a1f3b300-de68-11eb-9620-58f6f39329b0.png" width="150px" height="100"><br><sub><b>Stats Preview Card</b></sub></a> <br/> <img src="https://img.shields.io/twitter/url?color=14C2C8&label=Newbie&logo=frontendmentor&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FEvavic44" width="100px"><br></td>
 </tr>
 </table>
-
+ -->
 
 
 

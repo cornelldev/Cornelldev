@@ -8,7 +8,6 @@
 - 🌱 Hold this, I love that you're checking my github, thank you! 
 - 🤦 I'm always on frontend projects, working with HTML, CSS and Javascript, I just love the work.  
 - ✌️ I dream of working with a team of experienced developers, imagine all the knowledge! 
-- 📧 Mails at corneliusolusoji@gmail.com.
 <hr>
 
 #### `Contact`
@@ -18,6 +17,9 @@
   </a>
   <a href="https://www.linkedin.com/in/mrcornelius">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto: corneliusolusoji@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 <hr>
